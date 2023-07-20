@@ -1,0 +1,8 @@
+.DS_Store
+DCGAN_Text2Image_test.ipynb
+data
+generated_images
+saved_models
+models/__pycache__/char_cnn_rnn_model.cpython-39.pyc
+models/char_cnn_rnn_model.py
+models/__pycache__/dcgan_model.cpython-39.pyc
